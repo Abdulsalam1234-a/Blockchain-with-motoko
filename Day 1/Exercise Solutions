@@ -1,0 +1,25 @@
+ICP EXERCISES 
+EXERCISE ONE: EXPLORING THE NETWORK MAP 
+Navigate to the network tab = DONE
+Zoom into Africa or any specific region 
+Count the number of not providers available = 2
+Click on a node provider to view additional metadata:
+Data center ID = jb1
+Data center Owners = Teraco
+replica Nodes = 6
+API Boundary Nodes = 0
+Total Nodes = 6
+Node Providers = 1
+Subnets = 3
+
+
+Exercise 2: Viewing the Subnet
+Subnet name: 2fq7c-slacv-26cgz-vzbx2-2jrcs-5edph-i5s2j-tck77-c3rlz-iobzx-mqe
+Canister count: 16 MIEPs
+Block height: 102’025’082
+Status: 542.48 GiB
+
+Exercise 4: Canister Analysis
+Canister name and ID: 2225w-rqaaa-aaaai-qtqca-cai
+Subnet ID: mpubz-g52jc-grhjo-5oze5-qcj74-sex34-omprz-ivnsm-qvvhr-rfzpv-vae
+Module Hash: 819bf8f615b8479600fb432fe770a2c8dbbf656f7027212f7f1109fdc8ded661
